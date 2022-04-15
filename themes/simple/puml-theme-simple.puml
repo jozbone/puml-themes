@@ -4,7 +4,7 @@
 '' Original Author: Matthew Leather
 ''
 
-!$THEME = "plain"
+!$THEME = "simple"
 
 !if %not(%variable_exists("$BGCOLOR"))
   !$BGCOLOR = "#E3E3E3"
